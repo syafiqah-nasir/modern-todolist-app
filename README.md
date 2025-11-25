@@ -12,4 +12,4 @@
 - **Icons**: Lucide React Icons
 
 # Preview
-![Untiltled]("https://github.com/syafiqah-nasir/syafiqah-nasir/issues/4")
+![todo-list-app-demo]("https://github.com/user-attachments/assets/ce9d1d6c-909f-445a-bc91-d370df125170")
