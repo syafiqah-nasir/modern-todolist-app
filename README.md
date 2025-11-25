@@ -12,4 +12,4 @@
 - **Icons**: Lucide React Icons
 
 # Preview
-![todo-list-app-demo]("https://github.com/user-attachments/assets/ce9d1d6c-909f-445a-bc91-d370df125170")
+https://github.com/user-attachments/assets/ce9d1d6c-909f-445a-bc91-d370df125170
