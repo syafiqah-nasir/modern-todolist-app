@@ -48,7 +48,7 @@ function TodoApp() {
         {/* Header */}
         <div className='text-center mb-8'> 
           <h1 className='text-4xl font-bold text-gray-800 mb-2'>To-do List</h1>
-            <p>Streamline your productivity, from list to done</p>
+            <p>Enhance productivity, from list to done</p>
         </div>
 
         {/* Stats Card */}
